@@ -89,3 +89,19 @@ This project analyzes manufacturing KPIs such as **orders, processed quantity, r
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Manufacturing-Analytics-Project.git
+📌 Project Summary
+
+✔ Built manufacturing dashboards in Excel, Power BI, and Tableau
+✔ Analyzed orders, processed quantities, rejected quantities, and wastage %
+✔ Highlighted machine, department, and employee-level inefficiencies
+✔ Delivered data-driven insights for manufacturing optimization
+
+🎯 Key Learnings
+
+Designing KPIs for manufacturing performance monitoring
+
+Data visualization and storytelling with Excel, Power BI, and Tableau
+
+Identifying inefficiencies at machine, department, and employee levels
+
+Enhancing operational decision-making with BI dashboards
