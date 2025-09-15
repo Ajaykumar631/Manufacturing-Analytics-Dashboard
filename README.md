@@ -62,7 +62,7 @@ This project analyzes manufacturing KPIs such as **orders, processed quantity, r
 ---
 
 #### 📊 Excel Dashboard  
-![Excel Dashboard](manufacturing_excel_dashboard.jpg)  
+![Excel Dashboard](images/manufacturing_excel_dashboard.jpg)  
 
 #### 📊 Power BI Dashboard  
 ![Power BI Dashboard](images/manufacturing_powerbi_dashboard.jpg)  
