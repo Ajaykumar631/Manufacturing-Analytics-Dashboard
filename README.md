@@ -92,8 +92,11 @@ This project analyzes manufacturing KPIs such as **orders, processed quantity, r
 📌 Project Summary
 
 ✔ Built manufacturing dashboards in Excel, Power BI, and Tableau
+
 ✔ Analyzed orders, processed quantities, rejected quantities, and wastage %
+
 ✔ Highlighted machine, department, and employee-level inefficiencies
+
 ✔ Delivered data-driven insights for manufacturing optimization
 
 🎯 Key Learnings
